@@ -1,4 +1,20 @@
 
+## Event-based attention and tracking on neuromorphic hardware
+
+This is a brian2 implementation of:
+
+Renner, A., Evanusa, M., & Sandamirskaya, Y. (2019).
+Event-based attention and tracking on neuromorphic hardware.
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops. 2019.
+arXiv:1907.04060. [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Renner_Event-Based_Attention_and_Tracking_on_Neuromorphic_Hardware_CVPRW_2019_paper.pdf)
+
+    @InProceedings{Renner_2019_CVPR_Workshops,
+    author = {Renner, Alpha and Evanusa, Matthew and Sandamirskaya, Yulia},
+    title = {Event-Based Attention and Tracking on Neuromorphic Hardware},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month = {June},
+    year = {2019}
+    }
 
 ## Install
 Clone the repository.
